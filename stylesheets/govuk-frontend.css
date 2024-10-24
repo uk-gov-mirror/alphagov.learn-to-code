@@ -901,7 +901,6 @@
     height: 0;
     border-style: solid;
     border-color: transparent;
-    -webkit-clip-path: polygon(0% 50%, 100% 100%, 100% 0%);
     clip-path: polygon(0% 50%, 100% 100%, 100% 0%);
     border-width: 5px 6px 5px 0;
     border-right-color: inherit;
@@ -1824,7 +1823,6 @@
   height: 0;
   border-style: solid;
   border-color: transparent;
-  -webkit-clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
   clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
   border-width: 7px 0 7px 12.124px;
   border-left-color: inherit; }
@@ -1834,7 +1832,6 @@
     height: 0;
     border-style: solid;
     border-color: transparent;
-    -webkit-clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
     clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
     border-width: 12.124px 7px 0 7px;
     border-top-color: inherit; }
@@ -2331,7 +2328,6 @@
     height: 0;
     border-style: solid;
     border-color: transparent;
-    -webkit-clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
     clip-path: polygon(0% 0%, 50% 100%, 100% 0%);
     border-width: 8.66px 5px 0 5px;
     border-top-color: inherit;
@@ -2350,7 +2346,6 @@
   height: 0;
   border-style: solid;
   border-color: transparent;
-  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
   border-width: 0 5px 8.66px 5px;
   border-bottom-color: inherit; }
@@ -3015,7 +3010,6 @@
   margin: 0 !important;
   overflow: hidden !important;
   clip: rect(0 0 0 0) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   white-space: nowrap !important;
   font-family: arial, sans-serif;
@@ -3033,7 +3027,6 @@
     margin: inherit !important;
     overflow: visible !important;
     clip: auto !important;
-    -webkit-clip-path: none !important;
     clip-path: none !important;
     white-space: inherit !important; }
   @media print {
@@ -3204,7 +3197,6 @@
   padding: 0 !important;
   overflow: hidden !important;
   clip: rect(0 0 0 0) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   border: 0 !important;
   white-space: nowrap !important; }
@@ -3253,7 +3245,6 @@
   padding: 0 !important;
   overflow: hidden !important;
   clip: rect(0 0 0 0) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   border: 0 !important;
   white-space: nowrap !important; }
@@ -3265,7 +3256,6 @@
   margin: 0 !important;
   overflow: hidden !important;
   clip: rect(0 0 0 0) !important;
-  -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   white-space: nowrap !important; }
   .govuk-visually-hidden-focusable:active, .govuk-visually-hidden-focusable:focus {
@@ -3275,7 +3265,6 @@
     margin: inherit !important;
     overflow: visible !important;
     clip: auto !important;
-    -webkit-clip-path: none !important;
     clip-path: none !important;
     white-space: inherit !important; }
 
